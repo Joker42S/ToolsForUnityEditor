@@ -2,14 +2,14 @@
 Useful scripts can be used in Unity Editor.
 
 List:
-- [x] ruler
-- [x] custom transforms
-- [x] dictionary serializer
-- [x] select menu 
-- [ ] nav2astar gizmo
+- [x] Sceen Ruler
+- [x] Custom Transform Inspector
+- [x] Dictionary Serializer
+- [x] Select Menu 
+- [ ] Astar for Polygon
 - [ ] Event Manager
-- [ ] State Machine
-- [ ] Framework
+- [ ] Event Driving State Machine
+- [ ] Battle Framework
 
 ## Sceen Ruler
 ### Summary
