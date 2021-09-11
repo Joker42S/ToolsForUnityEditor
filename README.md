@@ -1,34 +1,44 @@
 # ToolsForUnityEditor
 Useful scripts can be used in Unity Editor.
 
-## - [x]Sceen Ruler
+List:
+- [x]ruler
+- [x]custom transforms
+- [x]dictionary serializer
+- [x]select menu 
+- [ ]nav2astar gizmo
+- [ ]Event Manager
+- [ ]State Machine
+- [ ]Framework
+
+## Sceen Ruler
 ### Summary
 ### Features
 
-## - [x]Custom Transform Inspector
+## Custom Transform Inspector
 ### Summary
 ### Features
 
-## - [x]Dictionary Serializer
+## Dictionary Serializer
 ### Summary
 ### Features
 
-## - [x]Select Menu 
+## Select Menu 
 ### Summary
 ### Features
 
-## - [ ]Astar for Polygon
+## Astar for Polygon
 ### Summary
 ### Features
 
-## - [ ]Event Manager
+## Event Manager
 ### Summary
 ### Features
 
-## - [ ]Event Driving State Machine
+## Event Driving State Machine
 ### Summary
 ### Features
 
-## - [ ]Battle Framework
+## Battle Framework
 ### Summary
 ### Features
